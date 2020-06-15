@@ -1,0 +1,19 @@
+.purple-color{
+    background-color: #9575CD;
+}
+.margin-bottom-100px{
+    margin-bottom:100px
+}
+.white-words{
+    color:white
+}
+.margin-bottom-50px{
+    margin-bottom:50px
+}
+@media only screen and (max-width: 576px) {
+
+ 
+  }
+.topmargin-30{
+    margin-top:60px
+}
